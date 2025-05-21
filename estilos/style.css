@@ -14,3 +14,10 @@ main{
     padding: 10 px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
+
+img.image{
+    width: 300px;
+    float: right;
+    margin: auto;
+    padding: 5px;
+}
